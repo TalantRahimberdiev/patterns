@@ -5,7 +5,7 @@ class Washing:
 
 class Spinning:
    def spin(self):
-      print('spines...')
+      print('spines.....')
 
 class Rinsing:
    def rinse(self):
