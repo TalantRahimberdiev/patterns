@@ -15,7 +15,6 @@ class FrenchLocalizer:
         """change the message using translations"""
         return self.translations.get(msg, msg)
 
-
 class SpanishLocalizer:
     """it simply returns the spanish version"""
 
