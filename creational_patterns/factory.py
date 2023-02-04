@@ -34,7 +34,6 @@ class EnglishLocalizer:
     def localize(self, msg):
         return msg
 
-
 def Factory(language="English"):
     """Factory Method"""
     localizers = {
@@ -44,7 +43,6 @@ def Factory(language="English"):
     }
 
     return localizers[language]()
-
 
 if __name__ == "__main__":
 
