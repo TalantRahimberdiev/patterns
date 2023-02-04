@@ -56,8 +56,6 @@ class FmState(State):
 
 
 """Dedicated class Radio"""
-
-
 class Radio:
 
     """A radio. It has a scan button, and an AM / FM toggle switch."""
@@ -79,8 +77,6 @@ class Radio:
         self.state.scan()
 
 
-
-""" main method """
 if __name__ == "__main__":
 
     """ create radio object"""
