@@ -56,7 +56,6 @@ class SDE:
     def __str__(self):
         return 'SDE'
 
-
 def random_course():
     """A random class for choosing the course"""
 
