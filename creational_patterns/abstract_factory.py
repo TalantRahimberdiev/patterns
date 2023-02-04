@@ -5,7 +5,6 @@
 
 import random
 
-
 class Course_At_GFG:
 
     """ GeeksforGeeks portal for courses """
